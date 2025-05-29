@@ -1,0 +1,17 @@
+D:\Programms\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.exe
+D:\Programms\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.deps.json
+D:\Programms\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.runtimeconfig.json
+D:\Programms\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.dll
+D:\Programms\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.pdb
+D:\Programms\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.csproj.GenerateResource.cache
+D:\Programms\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programms\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.AssemblyInfoInputs.cache
+D:\Programms\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.AssemblyInfo.cs
+D:\Programms\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.csproj.CoreCompileInputs.cache
+D:\Programms\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.dll
+D:\Programms\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\refint\RecipeApp.dll
+D:\Programms\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.pdb
+D:\Programms\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.genruntimeconfig.cache
+D:\Programms\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\ref\RecipeApp.dll
+D:\Programms\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.AddRecipeMenu.resources
+D:\Programms\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.MainMenu.resources
